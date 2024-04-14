@@ -1,5 +1,7 @@
 # ECON 3120 - Intermediate Macroeconomics
 
+![awww](e3120.jpg)
+
 This course takes an intermediate level approach to macroeconomic theory and its applications, building on the foundations developed in the principles of economics. It will provide analytical tools and formal models to explain the behavior of output, inflation, employment, interest rates, exchange rates, and other aggregate economic quantities. This set of tools is used to understand current economic issues, forecast the behavior of the economy, and assess the impact of policy choices. This course is meant to train students to think in a structured, analytically rigorous way about macroeconomic questions. This training will allow students to use macroeconomics as an analytical tool rather than a set of assorted theories. Finally, it will help prepare students entering graduate education or starting careers in management, finance, or economic policy-making.
 
 ## Class Information
