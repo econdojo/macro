@@ -1,4 +1,4 @@
-# ECON 3120 - Intermediate Macroeconomics
+# Intermediate Macroeconomics
 
 <p align="center">
   <img src="e3120.jpg" alt="awww" width="50%" height="50%">
