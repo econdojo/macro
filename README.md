@@ -12,9 +12,9 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * **Location:** Cook Hall 230
 * **Time:** MWF 11:00am-11:50am
 * **Office hours:** MW 1:00pm-2:00pm & by appointment
-* **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
+* **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
 * **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
-* **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
+* **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
 
 ## Introduction to Macroeconomimcs
 
