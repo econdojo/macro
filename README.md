@@ -34,7 +34,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Lecture 13: Macroeconomics in Open Economy](/pdf/E3120Slides13.pdf)
 * [List of equations](/pdf/Equations.pdf)
 
-## Supplementary Materials
+## Intermediate Macroeconomimcs
 
 * [Lecture 1: A Tour of the Book](/pdf/E3120lec1.pdf)
 * [Lecture 2: The Goods Market](/pdf/E3120lec2.pdf)
