@@ -11,10 +11,9 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Fall 2024 Syllabus](/pdf/E3120syllabus.pdf)
 * **Location:** Cook Hall 236
 * **Time:** MWF 10:00am-11:50am
-* **Office hours:** MW 2:00pm-3:00pm & by appointment
-* **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
-* **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
-* **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
+* **Office hours:** MW 2:00pm-3:00pm
+* **Discord:** [Econ Hub](https://discord.gg/SsrNPEeP2P)
+* **YouTube:** [Macro 101](https://www.youtube.com/playlist?list=PLvsr8Nz5WefP5QYao7xbHSBXSv1pQA55Z)
 
 ## Introduction to Macroeconomimcs
 
