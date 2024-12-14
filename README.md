@@ -8,7 +8,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 
 ## Class Information
 
-* [Spring 2025 Syllabus](/pdf/E3120syllabus.pdf)
+* **Syllabus:** [Spring 2025](/pdf/E3120syllabus.pdf)
 * **Discord:** [Econ Hub](https://discord.gg/SsrNPEeP2P)
 * **YouTube:** [Business School 101](https://www.youtube.com/@BusinessSchool101), [Macro 201](https://www.youtube.com/playlist?list=PLvsr8Nz5WefP5QYao7xbHSBXSv1pQA55Z)
 
