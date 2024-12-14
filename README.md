@@ -8,10 +8,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 
 ## Class Information
 
-* [Fall 2024 Syllabus](/pdf/E3120syllabus.pdf)
-* **Location:** Cook Hall 236
-* **Time:** MWF 10:00am-11:50am
-* **Office hours:** MW 2:00pm-3:00pm
+* [Spring 2025 Syllabus](/pdf/E3120syllabus.pdf)
 * **Discord:** [Econ Hub](https://discord.gg/SsrNPEeP2P)
 * **YouTube:** [Macro 201](https://www.youtube.com/playlist?list=PLvsr8Nz5WefP5QYao7xbHSBXSv1pQA55Z)
 
