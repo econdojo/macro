@@ -25,7 +25,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Lecture 8: Monetary Policy](/pdf/Macroslides8.pdf)
 * [Lecture 9: Fiscal Policy](/pdf/Macroslides9.pdf)
 * [Lecture 10: IS-LM Model](/pdf/Macroslides10.pdf)
-* [Lecture 11: Macroeconomics in Open Economy](/pdf/E3120Slides13.pdf)
+* [Lecture 11: Macroeconomics in Open Economy](/pdf/Macroslides11.pdf)
 * [List of equations](/pdf/Equations.pdf)
 
 ## Intermediate Macroeconomimcs
