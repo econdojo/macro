@@ -14,7 +14,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 
 ## Introduction to Macroeconomimcs
 
-* [Getting Started with AI Agents](https://github.com/econdojo/blog/blob/main/doc/AIagent.pdf)
+* [Getting Started with AI Agents](https://github.com/econdojo/blog/blob/main/doc/agent.pdf)
 * [Lecture 0: What is Economics](/pdf/Macroslides0.pdf)
 * [Lecture 1: Total Production and Income](/pdf/Macroslides1.pdf)
 * [Lecture 2: Unemployment, Inflation, and Interest Rate](/pdf/Macroslides2.pdf)
