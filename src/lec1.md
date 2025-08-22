@@ -2,6 +2,7 @@
 marp: true
 math: mathjax
 theme: default
+size: 4:3
 paginate: true
 backgroundColor: '#f4f6fa'
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
@@ -13,8 +14,20 @@ style: |
   }
   section {
     color: #222;
+    font-size: 24px;
+    padding: 50px;
   }
-  h1, h2, h3, h4, h5, h6 {
+  h1 {
+    color: #003DA5;
+    font-size: 38px;
+    margin-bottom: 18px;
+  }
+  h2 {
+    color: #003DA5;
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  h3, h4, h5, h6 {
     color: #003DA5;
   }
   .slide-footer {
@@ -28,23 +41,37 @@ style: |
   .identity-box {
     background-color: #f0f0f0;
     border-radius: 10px;
-    padding: 15px;
-    margin: 15px 0;
+    padding: 12px;
+    margin: 12px 0;
     text-align: center;
     border: 2px solid #ddd;
+    font-size: 20px;
   }
   table {
-    margin: 20px auto;
+    margin: 15px auto;
     border-collapse: collapse;
+    font-size: 19px;
   }
   table th, table td {
     border: 2px solid #003DA5;
-    padding: 10px 15px;
+    padding: 8px 12px;
     text-align: center;
   }
   table th {
     background-color: #003DA5;
     color: white;
+  }
+  ul, ol {
+    margin: 10px 0;
+    padding-left: 25px;
+  }
+  li {
+    margin: 6px 0;
+    line-height: 1.5;
+  }
+  p {
+    margin: 10px 0;
+    line-height: 1.5;
   }
 ---
 
@@ -104,7 +131,7 @@ $$100\times\$50+80\times\$10+20\times\$100=\$7800$$
 
 ## Calculating GDP (Cont'd)
 
-<img src="images/lec1/Fig1.png" width="60%" style="display: block; margin: 0 auto;">
+<img src="images/lec1/Fig1.png" width="80%" style="display: block; margin: 0 auto;">
 
 - Value added: market value firm adds to product
 - Final selling price = sum of values added at each stage
@@ -188,7 +215,7 @@ $$\text{nominal:}\quad 100\times\$50+80\times\$10+20\times\$100=\$7800$$
 
 ## Real versus Nominal GDP (Cont'd)
 
-<img src="images/lec1/Fig3.png" width="60%" style="display: block; margin: 0 auto;">
+<img src="images/lec1/Fig3.png" width="80%" style="display: block; margin: 0 auto;">
 
 - Real and nominal GDP, 1995-2016 (source: BEA)
 - Base year: real GDP = nominal GDP, GDP deflator = 100
@@ -207,7 +234,7 @@ $$\text{nominal:}\quad 100\times\$50+80\times\$10+20\times\$100=\$7800$$
 
 ## National Income Accounting (Cont'd)
 
-<img src="images/lec1/Fig4.png" width="80%" style="display: block; margin: 0 auto;">
+<img src="images/lec1/Fig4.png" width="90%" style="display: block; margin: 0 auto;">
 
 - Measures of total production/income, 2016 (source: BEA)
 
