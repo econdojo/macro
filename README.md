@@ -18,7 +18,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Lecture 0: What is Economics](/pdf/lec0.pdf)
 * [Lecture 1: Total Production and Income](/pdf/lec1.pdf)
 * [Lecture 2: Unemployment, Inflation, and Interest Rate](/pdf/lec2.pdf)
-* [Lecture 3: Economic Growth, Financial System, and Business Cycles](/pdf/Macroslides3.pdf)
+* [Lecture 3: Economic Growth, Financial System, and Business Cycles](/pdf/lec3.pdf)
 * [Lecture 4: Economic Growth Model](/pdf/Macroslides4.pdf)
 * [Lecture 5: Aggregate Expenditure and Output in Short Run](/pdf/Macroslides5.pdf)
 * [Lecture 6: Aggregate Demand and Aggregate Supply Analysis](/pdf/Macroslides6.pdf)
