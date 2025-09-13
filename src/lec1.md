@@ -88,7 +88,7 @@ style: |
 
 ## The Road Ahead
 
-1. [GDP Measures Total Production](#gdp-measures-total-production)
+1. [GDP Measures Total Production](#how-to-measure-total-production)
 2. [Components of GDP](#components-of-gdp)
 3. [Real versus Nominal GDP](#real-versus-nominal-gdp)
 4. [National Income Accounting](#national-income-accounting)

@@ -88,8 +88,8 @@ style: |
 
 ## The Road Ahead
 
-1. [Measuring Unemployment](#measuring-unemployment)
-2. [Measuring Inflation](#measuring-inflation)
+1. [Measuring Unemployment](#how-to-measure-unemployment)
+2. [Measuring Inflation](#how-to-measure-inflation)
 3. [Real versus Nominal Interest Rates](#real-versus-nominal-interest-rates)
 
 ---

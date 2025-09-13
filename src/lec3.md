@@ -88,9 +88,9 @@ style: |
 
 ## The Road Ahead
 
-1. [Long-Run Economic Growth](#long-run-economic-growth)
-2. [Saving, Investment, and Financial System](#saving-investment-and-financial-system)
-3. [Business Cycle](#business-cycle)
+1. [Long-Run Economic Growth](#what-is-economic-growth)
+2. [Saving, Investment, and Financial System](#what-is-financial-system)
+3. [Business Cycle](#idealized-vs-actual-business-cycle)
 
 ---
 

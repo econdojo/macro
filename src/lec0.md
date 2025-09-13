@@ -88,8 +88,8 @@ style: |
 
 ## The Road Ahead
 
-1. [What is Economics](#what-is-economics)
-2. [Understanding the Market](#understanding-the-market)
+1. [What is Economics](#what-is-economics-about)
+2. [Understanding the Market](#what-is-market)
 
 ---
 
