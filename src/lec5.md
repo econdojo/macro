@@ -103,7 +103,7 @@ style: |
   - **consumption (C):** expenditure by consumers
   - **planned investment (I'):** expenditure by firms (NO unplanned changes in inventories)
   - **government purchases (G):** expenditure by gov't, not including transfer payments
-  - **net exports (NX):** net expenditure by foreigners, exports (EX) -- imports (IM)
+  - **net exports (NX):** net expenditure by foreigners, exports (EX) $-$ imports (IM)
 
 - **Goods market equilibrium/IS relation**
 
