@@ -22,7 +22,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Lecture 4: Economic Growth Model](/pdf/lec4.pdf)
 * [Lecture 5: Aggregate Expenditure and Output in Short Run](/pdf/lec5.pdf)
 * [Lecture 6: Aggregate Demand and Aggregate Supply Analysis](/pdf/lec6.pdf)
-* [Lecture 7: Money, Banks, and Federal Reserve System](/pdf/Macroslides7.pdf)
+* [Lecture 7: Money, Banks, and Federal Reserve System](/pdf/lec7.pdf)
 * [Lecture 8: Monetary Policy](/pdf/Macroslides8.pdf)
 * [Lecture 9: Fiscal Policy](/pdf/Macroslides9.pdf)
 * [Lecture 10: IS-LM Model](/pdf/Macroslides10.pdf)
