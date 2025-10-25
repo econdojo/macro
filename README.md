@@ -24,7 +24,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Lecture 6: Aggregate Demand and Aggregate Supply Analysis](/pdf/lec6.pdf)
 * [Lecture 7: Money, Banks, and Federal Reserve System](/pdf/lec7.pdf)
 * [Lecture 8: Monetary Policy](/pdf/lec8.pdf)
-* [Lecture 9: Fiscal Policy](/pdf/Macroslides9.pdf)
+* [Lecture 9: Fiscal Policy](/pdf/lec9.pdf)
 * [Lecture 10: IS-LM Model](/pdf/Macroslides10.pdf)
 * [Lecture 11: Macroeconomics in Open Economy](/pdf/Macroslides11.pdf)
 * [List of equations](/pdf/Equations.pdf)

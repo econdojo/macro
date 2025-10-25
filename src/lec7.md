@@ -207,11 +207,31 @@ $$i=\frac{\$100-\$P_B}{\$P_B}\times 100\%\quad\Rightarrow\quad\$P_B=\frac{\$100}
 
 **Assets = liabilities + net worth (capital/stockholder's equity)**
 
-| Assets | | Liabilities and Net Worth | |
-|--------|------|---------------------------|------|
-| Reserves | $130 | Deposits | $1000 |
-| Loans | $900 | Long-term debt | $700 |
-| Securities | $700 | Net worth | $30 |
+<table>
+<tr>
+<th>Assets</th>
+<th></th>
+<th colspan="2">Liabilities and Net Worth</th>
+</tr>
+<tr>
+<td>Reserves</td>
+<td>$130</td>
+<td>Deposits</td>
+<td>$1000</td>
+</tr>
+<tr>
+<td>Loans</td>
+<td>$900</td>
+<td>Long-term debt</td>
+<td>$700</td>
+</tr>
+<tr>
+<td>Securities</td>
+<td>$700</td>
+<td>Net Worth</td>
+<td>$30</td>
+</tr>
+</table>
 
 - Examples of assets
 
