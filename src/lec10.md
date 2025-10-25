@@ -6,7 +6,7 @@ size: 4:3
 paginate: true
 backgroundColor: '#f4f6fa'
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'Lecture 9: IS-LM Model'
+header: 'Lecture 10: IS-LM Model'
 footer: 'Fei Tan | Made on Earth by humans.'
 style: |
   .logo {
