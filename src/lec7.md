@@ -211,7 +211,7 @@ $$i=\frac{\$100-\$P_B}{\$P_B}\times 100\%\quad\Rightarrow\quad\$P_B=\frac{\$100}
 <tr>
 <th>Assets</th>
 <th></th>
-<th colspan="2">Liabilities and Net Worth</th>
+<th colspan="2" style="white-space: nowrap;">Liabilities and Net Worth</th>
 </tr>
 <tr>
 <td>Reserves</td>
