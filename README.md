@@ -8,7 +8,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 
 ## Class Information
 
-* **Syllabus:** [Fall 2025](/pdf/E3120syllabus.pdf)
+* **Syllabus:** [Fall 2026](/pdf/E3120syllabus.pdf)
 * **Discord:** [Econ Hub](https://discord.gg/SsrNPEeP2P)
 * **YouTube:** [Business School 101](https://www.youtube.com/@BusinessSchool101)
 
@@ -44,3 +44,30 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Lecture 19: Monetary Policy](/pdf/E3120lec19.pdf)
 * [Lecture 20: Fiscal Policy](/pdf/E3120lec20.pdf)
 * [Appendix: A Math Refresher](/pdf/E3120app.pdf)
+
+## 🤖 Teaching Assistant
+
+This course includes an AI-powered teaching assistant available 24/7 to help you master concepts, work through problems, and prepare for exams. The digital TA is trained on all course materials and provides personalized learning support.
+
+### Getting Started
+
+1. **Download this repository** (click the green "Code" button → "Download ZIP")
+2. **Install [VS Code](https://code.visualstudio.com)** (free)
+3. **Install GitHub Copilot extension** (free for students via [GitHub Student Developer Pack](https://education.github.com/pack))
+4. **Open this folder in VS Code** and launch Copilot Chat to start learning!
+
+### What the TA Can Do
+
+* Explain concepts with step-by-step clarity
+* Guide you through problem-solving
+* Answer questions at your own pace, anytime
+* Help you prepare for exams
+
+### Example Questions
+
+* "Walk me through how to calculate GDP using the expenditure approach."
+* "How do I find the unemployment rate, labor-force participation rate, and real interest rate from the data?"
+* "Help me understand problem 3 from Lecture 4 on the economic growth model."
+* "What's the difference between a shift in aggregate demand and a shift in short-run aggregate supply?"
+
+**Remember:** The TA is designed to enhance your learning, not replace it. Use it to deepen understanding while actively engaging with the material.
